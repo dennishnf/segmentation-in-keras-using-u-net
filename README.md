@@ -18,7 +18,7 @@ The repository makes was written in python 3.6. It's expected to run in any vers
 - Version: Native Python (main.py): Tensorflow 1.10.0, Keras 2.1.5
 
 
-## Version: Google Colav (main.ipynb) ##
+## Version: Google Colab (main.ipynb) ##
 
 You should use the file main.ipynb.
 
